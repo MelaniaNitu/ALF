@@ -2,7 +2,12 @@
 * groupe 1230 F
 * devoir 3 "Bl€Ah language"
 * if statament
+* Test:(ok)
+*  NebuniaLuSalam  v == 9
+*  #valoareDaiaMare v+=2$
 */
+
+
 
 start
 =ifstatement/(statement)*
