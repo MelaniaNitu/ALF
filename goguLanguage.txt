@@ -22,8 +22,8 @@ GoaGA = GoGU1 + 2 :-P <br>
 <button onclick="myFunction()">Try it</button>
 
 <p id="demo"> </p>
-
 <script>
+
 function myFunction() {
     var str1 = "GogU1 = 25 * 4 :-P";
     var str2= "GoaGA = GoGU1 + 2 :-P";
