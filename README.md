@@ -7,4 +7,5 @@ ALF
 3.IFstatament <br>
 4.ANTLR4 <br>
 5.Rewriting IfStatament with a terminator<br>
+6.Implementation for "add-one function" automaton using the Turing Machine concept <br>
 
